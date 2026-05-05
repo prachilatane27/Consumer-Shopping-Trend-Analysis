@@ -38,6 +38,8 @@ This project analyzes consumer shopping behavior using Python, SQL, and Power BI
 - Cleaned Dataset (.csv)
 - Power BI Dashboard (.pbix)
 - Dashboard Images
+- <img width="779" height="446" alt="image" src="https://github.com/user-attachments/assets/9ddf0da4-a699-4712-b5ab-66bd6f522439" />
+
 
 ## Author
 Prachi Latane
